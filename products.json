@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Web Development",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "We specialize in creating stunning and functional websites tailored to your unique needs. From responsive designs to intuitive user interfaces, we craft websites that captivate audiences and drive results."
+    },
+    {
+        "name": "App Developent",
+        "image": "https://images.pexels.com/photos/907489/pexels-photo-907489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Turn your ideas into reality with our custom app development services. Whether you need a mobile app for iOS, Android, or cross-platform compatibility, we have the expertise to deliver seamless and feature-rich applications that delight users and elevate your brand."
+    },
+    {
+        "name": "Software Developmet",
+        "image": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2s",
+        "description": "From enterprise solutions to specialized software applications, our software development team is equipped to handle projects of any scale and complexity. With a focus on innovation and quality, we deliver robust and scalable software solutions that meet your business objectives."
+    },
+    {
+        "name": "Data Analytics",
+        "image": "https://images.pexels.com/photos/3183131/pexels-photo-3183131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Unlock the power of data with our advanced analytics solutions. From data collection and analysis to visualization and insights generation, we help businesses make informed decisions and gain a competitive edge in today's data-driven world."
+    },
+    {
+        "name": "Blockchain development",
+        "image": "https://media.istockphoto.com/id/1295900101/photo/data-scientists-programmer-team-using-laptop-analyzing-and-developing-in-various-information.webp?s=1024x1024&w=is&k=20&c=ZHAEHkz1XiMyD-xGgVWgZbRltU9EnjCMa4nlYmoqEkk=",
+        "description": "Explore the potential of blockchain technology with our comprehensive development services. Whether you're looking to build a secure and transparent blockchain network or develop decentralized applications (dApps), we offer end-to-end solutions to harness the benefits of blockchain for your business."
+    },
+    {
+        "name": "Digital Markenting",
+        "image": "https://images.pexels.com/photos/6476808/pexels-photo-6476808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Boost your online presence and drive growth with our digital marketing solutions. From search engine optimization (SEO) and social media marketing to email campaigns and content creation, we help you reach your target audience, generate leads, and achieve your marketing goals."
+    }
+]
